@@ -1,0 +1,9 @@
+{
+	"name": "ripeSsisDataFactory",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "85f51e4d-1271-4960-9cff-41ec3c0e1568",
+		"tenantId": "a9b25c61-1221-4907-94fd-a60504b37a01"
+	}
+}
